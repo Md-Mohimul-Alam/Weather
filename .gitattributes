@@ -1,0 +1,2 @@
+weather-today-20231216T212317Z-001.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
